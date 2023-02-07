@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhuwanChhimal
 - 👀 I’m interested in web development (front-end)
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
