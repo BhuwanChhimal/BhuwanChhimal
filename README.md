@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuwan</h1>
 <h3 align="center">A passionate Web designer and developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Bookdom ecommerce platform.**
+- 🔭 I’m currently working on **A MERN stack Chat app.**
 
 - 🌱 I’m currently learning **MERN stack.**
 
