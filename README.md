@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhuwan</h1>
 <h3 align="center">A passionate Web designer and developer from Nepal</h3>
 
-- 🔭 I’m currently working on **A MERN stack Chat app.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuwanchhimal&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwanchhimal" /> </p>
+
+- 🔭 I’m currently working on [Guess the anime character](https://github.com/BhuwanChhimal/Guess-the-anime-character)
 
 - 🌱 I’m currently learning **MERN stack.**
 
@@ -9,9 +11,9 @@
 
 - 📫 How to reach me **bhuwanchhimal@gmail.com**
 
-<h3 align="left">Connect with me: LinkedIn</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhuwan-chhimal-552872261" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuwan chhimal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhuwan chhimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuwan chhimal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuwanchhimal&show_icons=true&locale=en&layout=compact" alt="bhuwanchhimal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuwanchhimal&show_icons=true&locale=en" alt="bhuwanchhimal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuwanchhimal&" alt="bhuwanchhimal" /></p>
