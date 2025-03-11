@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web developer from Nepal.</h3>
 
 # 💫 About Me:
- 🔭 I’m currently working on <strong>Guess the anime character</strong><br><br>🌱 I’m currently learning <strong> MERN stack</strong>.<br><br>👨‍💻 All of my projects are available at my portfolio: https://bhuwanchhimal.netlify.app/<br><br>📫 How to reach me: bhuwanchhimal@gmail.com
+ 🔭 I’m currently working on <strong>Guess the anime character.</strong><br><br>🌱 I’m currently learning <strong> MERN stack</strong>.<br><br>👨‍💻 All of my projects are available at my portfolio: https://bhuwanchhimal.netlify.app/<br><br>📫 How to reach me: bhuwanchhimal@gmail.com
 
 
 ## 🌐 Socials:
